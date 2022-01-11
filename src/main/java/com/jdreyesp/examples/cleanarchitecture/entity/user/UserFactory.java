@@ -1,4 +1,4 @@
-package com.jdreyesp.examples.cleanarchitecture.entity;
+package com.jdreyesp.examples.cleanarchitecture.entity.user;
 
 public interface UserFactory {
 

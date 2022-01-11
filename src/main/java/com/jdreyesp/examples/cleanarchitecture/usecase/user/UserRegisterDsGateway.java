@@ -1,4 +1,4 @@
-package com.jdreyesp.examples.cleanarchitecture.usecase;
+package com.jdreyesp.examples.cleanarchitecture.usecase.user;
 
 /**
  * This acts as an output boundary for making use of the outer layers

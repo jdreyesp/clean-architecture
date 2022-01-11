@@ -1,4 +1,4 @@
-package com.jdreyesp.examples.cleanarchitecture.usecase;
+package com.jdreyesp.examples.cleanarchitecture.usecase.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

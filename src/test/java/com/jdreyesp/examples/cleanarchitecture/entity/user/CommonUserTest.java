@@ -1,5 +1,6 @@
-package com.jdreyesp.examples.cleanarchitecture.entity;
+package com.jdreyesp.examples.cleanarchitecture.entity.user;
 
+import com.jdreyesp.examples.cleanarchitecture.entity.user.CommonUser;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

@@ -1,7 +1,7 @@
-package com.jdreyesp.examples.cleanarchitecture.usecase;
+package com.jdreyesp.examples.cleanarchitecture.usecase.user;
 
-import com.jdreyesp.examples.cleanarchitecture.entity.User;
-import com.jdreyesp.examples.cleanarchitecture.entity.UserFactory;
+import com.jdreyesp.examples.cleanarchitecture.entity.user.User;
+import com.jdreyesp.examples.cleanarchitecture.entity.user.UserFactory;
 import lombok.AllArgsConstructor;
 
 import java.time.LocalDateTime;
