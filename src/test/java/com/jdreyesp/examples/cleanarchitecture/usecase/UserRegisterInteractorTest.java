@@ -4,7 +4,6 @@ import com.jdreyesp.examples.cleanarchitecture.entity.CommonUserFactory;
 import com.jdreyesp.examples.cleanarchitecture.entity.UserFactory;
 import org.junit.jupiter.api.Test;
 import org.mockito.ArgumentCaptor;
-import org.mockito.Captor;
 
 import static org.mockito.Mockito.*;
 
