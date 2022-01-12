@@ -7,5 +7,5 @@ import lombok.Getter;
 @AllArgsConstructor
 public class UserResponseModel {
     private String name;
-    private String time;
+    private String creationTime;
 }

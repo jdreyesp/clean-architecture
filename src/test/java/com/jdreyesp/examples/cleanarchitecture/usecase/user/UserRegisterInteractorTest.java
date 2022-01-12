@@ -2,7 +2,6 @@ package com.jdreyesp.examples.cleanarchitecture.usecase.user;
 
 import com.jdreyesp.examples.cleanarchitecture.entity.user.CommonUserFactory;
 import com.jdreyesp.examples.cleanarchitecture.entity.user.UserFactory;
-import com.jdreyesp.examples.cleanarchitecture.usecase.user.*;
 import org.junit.jupiter.api.Test;
 import org.mockito.ArgumentCaptor;
 

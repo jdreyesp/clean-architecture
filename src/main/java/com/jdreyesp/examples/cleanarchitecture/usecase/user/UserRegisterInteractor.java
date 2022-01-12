@@ -3,6 +3,7 @@ package com.jdreyesp.examples.cleanarchitecture.usecase.user;
 import com.jdreyesp.examples.cleanarchitecture.entity.user.User;
 import com.jdreyesp.examples.cleanarchitecture.entity.user.UserFactory;
 import lombok.AllArgsConstructor;
+import org.springframework.stereotype.Component;
 
 import java.time.LocalDateTime;
 
@@ -10,6 +11,7 @@ import java.time.LocalDateTime;
  * This implementation assumes that there is an UI controlled by UserPresenter (from the UseCases layer)
  * and some persistence layer (managed by UserRegisterDsGateway (from the UseCases layer as well))
  */
+@Component
 @AllArgsConstructor
 public class UserRegisterInteractor implements UserInputBoundary {
 
